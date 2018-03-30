@@ -1,0 +1,401 @@
+* {
+    margin:  0;
+    padding: 0;
+}
+
+.geren {
+    width: 80%;
+    margin: 2% auto;
+    background: #f9f9f9;
+    padding: 10px;
+    box-shadow:  0px 0px 2px;
+    display: table;
+}
+
+.geren p {
+    float: left;
+    text-align: center;
+    padding: 10px;
+    background: #0dce13;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+
+.geren p a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: arial;
+}
+
+form.sgsdrgn {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    background: #f9f9f9;
+    box-shadow: 0px 0px 2px;
+}
+
+input.sdvsdv {
+    width: 400px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    margin-right:  20px;
+}
+
+input.aefserf {
+    width: 350px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    margin-right:  20px;
+}
+
+input.ssss {
+    width: 82%;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    margin-bottom:  10px;
+    margin-right:  20px;
+}
+
+textarea#cgfftghrff {
+    width: 82%;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    margin-right:  20px;
+    resize: none;
+    height: 200px;
+}
+
+input.srgdth {
+    width: 180px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+}
+
+div#dados_top {
+    text-align: center;
+}
+
+.dados_times {
+    width: 95.5%;
+    display: table;
+    padding: 24px;
+}
+
+div#dbrgjbrig {
+    float: left;
+    text-align: center !important;
+}
+
+div#sgdrgdtrg {
+    float: right;
+}
+
+input.sdvsdvs {width: 290px;padding: 10px;background: #f9f9f9;border: 1px solid #bdb9b9;font-weight: bold;font-family: arial;border-radius: 2px;color: #606060;display: block;margin-bottom: 10px;}
+
+input.sdvdsdvs {
+    width: 150px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    text-align: center;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    margin-bottom:  10px;
+    margin: 0 auto;
+}
+
+textarea#time1gols {
+    width: 290px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    resize: none;
+    height: 70px;
+    margin-top:  10px;
+}
+
+input.sdvsdvdds {
+    width: 290px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    margin-bottom: 10px;
+}
+
+input.sdvsdss {
+    width: 150px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    text-align: center;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    margin-bottom: 10px;
+    margin: 0 auto;
+}
+    textarea#time1gols {      
+    width: 300px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    resize: none;
+    height: 70px;
+    margin-top: 10px;  
+}
+
+    textarea#time1gols {
+    width: 300px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    resize: none;
+    height: 70px;
+    margin-top: 10px;  
+}
+
+    textarea#time1gols { 
+    width: 290px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    resize: none;
+    height: 70px;
+    margin-top: 10px;  
+}
+
+    textarea#time2gols {
+    padding: 10px;
+    width: 290px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    resize: none;
+    height: 70px;
+    margin-top: 10px;
+}
+
+.wefsrgt {
+    float: left;
+    margin: 0 auto;
+    width: 39%;
+    text-align: center;
+}
+
+input.sdvdsdvss {
+    width: 150px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom:  10px;
+}
+
+input.sdvdsdsvs {
+    width: 150px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    margin: 0 auto;
+}
+
+select#sdgdsg {
+    width: 309px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #bdb9b9;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+    color: #606060;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.sgfsrgr {
+    display: table;
+    width: 100%;
+    margin-bottom: -30px;
+    margin-top: -15px;
+}
+
+.aefaef {
+    display:  block;
+    padding: 25px;
+    float: left;
+}
+
+.enviar {text-align: center;}
+
+.enviar button {
+    padding: 10px;
+    width: 200px;
+    border: none;
+    border-radius: 2px;
+    background: #4CAF50;
+    color: #fff;
+    font-weight: bold;
+    font-family: arial;
+}
+
+.certo {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    background: #4CAF50;
+    margin-bottom: 25px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 2px;
+}
+
+.escr {
+    padding: 24px;
+}
+
+textarea#falemais {
+    width: 98%;
+    resize: none;
+    height: 200px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: arial;
+    background: #f9f9f9;
+    color: #606060;
+}
+
+.dados_b_l {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+input.dhfyjfy {
+    font-family: arial;
+    width: 45.5%;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #a9a9a9;
+    border-radius: 2px;
+    font-weight: bold;
+    color: #606060;
+}
+
+div#srfbdth {
+    width: 300px;
+    float: left;
+    text-align: center;
+    background: #f9f9f9;
+    margin-left: 19px;
+    margin-right: 18px;
+    margin-bottom:  10px;
+    margin-top:  10px;
+}
+
+.dados p {
+    color: #606060;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.dados {
+    padding: 10px;
+}
+
+span.leftbuttom {
+    float: left;
+}
+
+span.rightbuttom {
+    float: right;
+}
+
+.opicoes {
+    display: table;
+    width: 93%;
+    padding: 10px;
+}
+
+.opicoes a {
+    color: #0dce13;
+    text-decoration: none;
+}
